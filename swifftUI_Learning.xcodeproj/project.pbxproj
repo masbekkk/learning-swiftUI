@@ -11,6 +11,8 @@
 		DD4F98D329EE9665004E19AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4F98D229EE9665004E19AA /* ContentView.swift */; };
 		DD4F98D529EE9666004E19AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD4F98D429EE9666004E19AA /* Assets.xcassets */; };
 		DD4F98D829EE9666004E19AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD4F98D729EE9666004E19AA /* Preview Assets.xcassets */; };
+		DD4F98DF29EEA109004E19AA /* ShadowImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4F98DE29EEA109004E19AA /* ShadowImageView.swift */; };
+		DD4F98E129EEA82D004E19AA /* CombineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD4F98E029EEA82D004E19AA /* CombineView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DD4F98D229EE9665004E19AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DD4F98D429EE9666004E19AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD4F98D729EE9666004E19AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DD4F98DE29EEA109004E19AA /* ShadowImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowImageView.swift; sourceTree = "<group>"; };
+		DD4F98E029EEA82D004E19AA /* CombineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				DD4F98D029EE9665004E19AA /* swifftUI_LearningApp.swift */,
 				DD4F98D229EE9665004E19AA /* ContentView.swift */,
+				DD4F98DE29EEA109004E19AA /* ShadowImageView.swift */,
+				DD4F98E029EEA82D004E19AA /* CombineView.swift */,
 				DD4F98D429EE9666004E19AA /* Assets.xcassets */,
 				DD4F98D629EE9666004E19AA /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD4F98E129EEA82D004E19AA /* CombineView.swift in Sources */,
+				DD4F98DF29EEA109004E19AA /* ShadowImageView.swift in Sources */,
 				DD4F98D329EE9665004E19AA /* ContentView.swift in Sources */,
 				DD4F98D129EE9665004E19AA /* swifftUI_LearningApp.swift in Sources */,
 			);
